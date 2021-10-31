@@ -1,5 +1,5 @@
 # OpenCore EFI for AMD Ryzen Hackintosh
-
+This is fork, пока что не редактироывлся, свой конфиг добавлю позже
 ## Verified Specification
 
 | **Component**    | **Model**                                  |
